@@ -18,4 +18,4 @@ java -jar target/simple-java-project.jar
 
 ```bash
 mvn test
-```
+demo 3```
